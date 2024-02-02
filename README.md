@@ -1,6 +1,9 @@
 # Momentum
 Momentum 앱 클론코딩
 
+![Momentum](./img/FireShot%20Capture%20153%20-%20Momentum.png)
+![Momentum](./img/FireShot%20Capture%20153%20-%20Momentum2.png)
+
 > 오류
 > Github page로 배포된 것만 todo-list를 submit했을 경우 새로고침 되는 오류
 
@@ -20,4 +23,4 @@ Momentum 앱 클론코딩
 #### 날씨와 위치 (geolocation)
 
 ---
-Javascript의 기본 기능들을 돌아보며 복습하고 코드를 어떻게 클린하게 짤 수 있을까 많이 배우게 된 프로젝트였습니다.
+기본기를 다시 복습할 수 있는 프로젝트였습니다. 기능 구현 뿐만 아니라 어떻게하면 클린하게 코드를 짤 수 있을지 많이 생각할 수 있었습니다.
