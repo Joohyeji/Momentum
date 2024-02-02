@@ -1,6 +1,8 @@
 # Momentum
 Momentum 앱 클론코딩
 
+> 오류
+> Github page로 배포된 것만 todo-list를 submit했을 경우 새로고침 되는 오류
 
 ## 🕰️개발 기간
  * 2024-01-17 ~ 2024-02-02
